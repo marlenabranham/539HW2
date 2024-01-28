@@ -1,2 +1,2 @@
-# ccp_html_w24
-Common Class Project
+# ccp_starter_code
+Starter Code for your CCP 
